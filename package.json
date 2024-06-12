@@ -1,5 +1,5 @@
 {
-  "name": "kando-react-app",
+  "name": "create-kando-app",
   "version": "1.0.0",
   "private": false,
   "dependencies": {
@@ -43,7 +43,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sullaspqr/kando-react-app.git"
+    "url": "git+https://github.com/sullaspqr/create-kando-app.git"
   },
   "keywords": [
     "react",
@@ -53,7 +53,7 @@
   "author": "Bence Németh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sullaspqr/kando-react-app/issues"
+    "url": "https://github.com/sullaspqr/create-kando-app/issues"
   },
-  "homepage": "https://github.com/sullaspqr/kando-react-app#readme"
+  "homepage": "https://github.com/sullaspqr/create-kando-app#readme"
 }
