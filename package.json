@@ -23,6 +23,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "create-app": "create-kando-app",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
