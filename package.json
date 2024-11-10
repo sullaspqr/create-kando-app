@@ -2,11 +2,8 @@
   "name": "create-kando-app",
   "version": "1.0.5",
   "private": false,
-  "bin": {
-    "create-kando-app": "./bin/create-myapp.js"
-  },
   "files": [
-    "bin/create-myapp.js",
+    "create-myapp.js",
     "template/src",
     "template/public"
   ],
@@ -48,7 +45,7 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "bin/create-myapp.js",
+  "main": "create-myapp.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sullaspqr/create-kando-app.git"
