@@ -6,6 +6,7 @@ const path = require('path');
 const srcTemplateDir = path.join(__dirname, '/template/src');
 const publicTemplateDir = path.join(__dirname, '/template/public');
 const destDir = process.cwd();
+
 // Függvény a másolás végrehajtására és hiba kezelésére
 const copyDirectory = async (srcDir, destDir) => {
   try {

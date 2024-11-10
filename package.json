@@ -3,10 +3,13 @@
   "version": "1.0.6",
   "private": false,
   "files": [
-    "create-myapp.js",
+    "create-script.js",
     "template/src",
     "template/public"
   ],
+  "bin": {
+    "create-kando-app": "./create-script.js"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
