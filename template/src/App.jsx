@@ -1,14 +1,15 @@
+import React from 'react';
 import logo from './logo.jpeg';
 import './App.css';
 
-function App() {
+export const App = ()=> {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <br/>
         <p>
-          Szerkeszd az <code>src/App.js</code> fájlt és mentsd el az újratöltéshez!
+          Szerkeszd az <code>src/App.jsx</code> fájlt és mentsd el az újratöltéshez!
         </p>
         <a
           className="App-link"
@@ -22,5 +23,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
