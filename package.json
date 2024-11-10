@@ -17,6 +17,7 @@
     "axios": "^1.7.7",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
+    "create-kando-app": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1"
@@ -47,7 +48,7 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
+  "main": "bin/create-myapp.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sullaspqr/create-kando-app.git"
